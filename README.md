@@ -7,7 +7,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-- ✏️ I'm currently studying at CBNU in Korea
+- ✏️ I'm studying at CBNU in Korea
 - 🌱 I’m currently learning Python Language and Algorithms
 - 📫 How to reach me: kminnyes@gmail.com on Email
 
